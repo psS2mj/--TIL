@@ -16,7 +16,7 @@
 
 >## 🥁Server
 #### `운영체제`
-- [가상머신과 리눅스에 대하여](https://github.com/psS2mj/TIL/blob/readme/2020.09/0905~06.md#%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-vmvirtual-machine) (9/5~6)
+- [가상머신(Virtual Machine, VM)과 리눅스(Linux)](https://github.com/psS2mj/TIL/blob/readme/2020.09/0905~06.md#%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0-vmvirtual-machine) (9/5~6)
 
 <br>
 
@@ -30,7 +30,7 @@
 
 >## 💻Computer Science
 #### `컴퓨터구조`
-- [CPU 아키텍쳐: CISC와 RISC에 관하여](https://github.com/psS2mj/TIL/blob/readme/2020.09/0905~06.md#cpu-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90) (9/5~6)
+- [CPU 아키텍쳐: CISC와 RISC](https://github.com/psS2mj/TIL/blob/readme/2020.09/0905~06.md#cpu-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90) (9/5~6)
 
 <br>
 
