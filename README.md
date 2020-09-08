@@ -36,3 +36,12 @@
 
 >## 😎General
 - [CLI와 GUI](https://github.com/psS2mj/TIL/blob/readme/2020.09/0905~06.md#cli%EC%99%80-gui) (9/5~6)
+
+<br>
+
+>## 👩🏻‍🏫Domain
+#### `경제·금융`
+#### `Digital Transformation`
+- #### `블록체인`
+- #### `빅데이터`
+- #### `인공지능(AI)`
