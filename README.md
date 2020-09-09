@@ -39,15 +39,16 @@
 
 <br>
 
+>## 🛠Tools
+#### `GIT`
+- [Git flow 전략](https://github.com/psS2mj/TIL/blob/master/2020.09/0908.md) (9/8)
+#### `JIRA`
+
+<br>
+
 >## 👩🏻‍🏫Domain
 #### `경제·금융`
 #### `Digital Transformation`
 - #### `블록체인`
 - #### `빅데이터`
 - #### `인공지능(AI)`
-
-<br>
-
->## 🛠Tools
-#### `GIT`
-#### `JIRA`
