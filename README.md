@@ -5,7 +5,7 @@
 <details>
 <summary>2020년 9월부터 시작!!</summary>
 <div markdown="1">
-<strong>2020.09</strong> 5~6, 8, 9, 11
+<strong>2020.09</strong> 5~6, 8, 9, 11, 18
 </details>
 
 <br>
@@ -48,7 +48,10 @@
 >## 🛠Tools
 #### `GIT`
 - [Git flow 전략](https://github.com/psS2mj/TIL/blob/master/2020.09/0908.md) (9/8)
-- [git config로 사용자 정보 변경하기](https://github.com/psS2mj/TIL/blob/master/2020.09/0911.md) (9/11)
+- [git config 명령어 사용하기](https://github.com/psS2mj/TIL/blob/master/2020.09/0911.md) (9/11)
+- [git 로컬 및 원격(remote) branch 삭제하기](https://github.com/psS2mj/TIL/blob/master/2020.09/0918.md#git-branch-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0-%EB%A1%9C%EC%BB%AC-%EB%B0%8F-%EC%9B%90%EA%B2%A9) (9/18)
+- ⛔`에러` [error: Cannot delete branch '삭제하려는 브랜치' checked out at '경로'](https://github.com/psS2mj/TIL/blob/master/2020.09/0918.md#git-bash-%EC%97%90%EB%9F%AC) (9/18)
+- ⛔`에러` [error: The branch '삭제하려는 브랜치' is not fully merged. If you are sure you want to delete it, run 'git branch -D 삭제하려는 브랜치'](https://github.com/psS2mj/TIL/blob/master/2020.09/0918.md#git-bash-%EC%97%90%EB%9F%AC-1) (9/18)
 #### `JIRA`
 
 <br>
