@@ -48,7 +48,7 @@
 >## 🛠Tools
 #### `GIT`
 - [Git flow 전략](https://github.com/psS2mj/TIL/blob/master/2020.09/0908.md) (9/8)
-- [git config 명령어 사용하기](https://github.com/psS2mj/TIL/blob/master/2020.09/0911.md) (9/11)
+- [git config로 사용자 정보 변경하기](https://github.com/psS2mj/TIL/blob/master/2020.09/0911.md) (9/11)
 #### `JIRA`
 
 <br>
