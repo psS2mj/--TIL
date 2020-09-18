@@ -5,7 +5,7 @@
 <details>
 <summary>2020년 9월부터 시작!!</summary>
 <div markdown="1">
-<strong>2020.09</strong> 5~6
+<strong>2020.09</strong> 5~6, 8, 9, 11
 </details>
 
 <br>
@@ -39,9 +39,16 @@
 
 <br>
 
+>## 👩🏻Languages
+#### `Java`
+#### `Python`
+
+<br>
+
 >## 🛠Tools
 #### `GIT`
 - [Git flow 전략](https://github.com/psS2mj/TIL/blob/master/2020.09/0908.md) (9/8)
+- [git config 명령어 사용하기](https://github.com/psS2mj/TIL/blob/master/2020.09/0911.md) (9/11)
 #### `JIRA`
 
 <br>
@@ -50,5 +57,6 @@
 #### `경제·금융`
 #### `Digital Transformation`
 - #### `블록체인`
+  - [블록(Block)과 체인(Chain)에 관하여](https://github.com/psS2mj/TIL/blob/master/2020.09/0909.md) (9/9)
 - #### `빅데이터`
 - #### `인공지능(AI)`
