@@ -43,6 +43,7 @@
 <br>
 
 >## 👩🏻Languages
+#### `C#`
 #### `Java`
 #### `Python`
 - [iterable 자료형이란?](https://github.com/psS2mj/TIL/blob/master/2020.10/1024.md#iterable-%EC%9E%90%EB%A3%8C%ED%98%95) (2020/10/24)
