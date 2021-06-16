@@ -71,7 +71,7 @@
 
 <br>
 
->## 👩🏻‍🏫Domain
+>## 👩🏻‍🏫Domain Knowledge
 #### `경제·금융`
 #### `Digital Transformation`
 - #### `블록체인`
